@@ -94,5 +94,4 @@ function generarCompleto(){
 
     elDivCompleto.appendChild(unNuevoDiv);
 
-
 }
